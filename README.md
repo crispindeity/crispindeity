@@ -39,13 +39,14 @@
 </div>
 
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeombong&count_bg=%23CDCCC5&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=bong&edge_flat=true"/></a>
-</div>
-
-<div align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geombong&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
   
+</div>
+
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeombong&count_bg=%23CDCCC5&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=bong&edge_flat=true"/>
+  </a>
 </div>
 
 <div align="center">
