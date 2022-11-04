@@ -37,7 +37,7 @@
 <div>
   <h3 align="center"> 🌈 My 🌈 </h3>
   <p align="center">
-    <a href="https://geombong.github.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+    <a href="https://crispindeity.github.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
   </p>
 </div>
 
