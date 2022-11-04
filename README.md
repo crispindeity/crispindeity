@@ -27,7 +27,7 @@
 <div align="center" style="text-align:center">
 
 <a href="https://github.com/crispindeity">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geombong&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispindeity&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
 </a>
 
 </div>
